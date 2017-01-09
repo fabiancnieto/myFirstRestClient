@@ -55,3 +55,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# External Libraries
+vendor/*
